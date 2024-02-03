@@ -1,2 +1,4 @@
 //sample 
-//array coding
+//array
+//hi hello
+//krithi 
